@@ -1,14 +1,12 @@
-# Module 3 Problems
+# Module 4 Problems
 
-Please complete 2 problems from Part 1 of the Module 3 Problem Set, and 1 problem from Part 2.
+Please complete all problems from the Module 4 Problem Set.
 
 ---
 
 ### Instructions
 - Create a separate file for each program.
 - Name each file according to the name on the assignment page.
-- In `completedproblems.md`, list the names of each of the problems you have completed
-and would like graded
 - When you are finished, be sure to sync (commit and push) your code to GitHub
 
 ---
